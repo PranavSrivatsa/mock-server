@@ -2,10 +2,10 @@
   "name": "mock-server",
   "version": "1.0.0",
   "description": "Mock server that returns hard-coded JSON of people and timestamps",
+  "main": "api/getUserLogs.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node api/getUserLogs.js",
-    "heroku-postbuild": "npm run build"
+    "start": "node api/getUserLogs.js"
   },
   "author": "",
   "license": "ISC",

@@ -4,7 +4,8 @@
   "description": "Mock server that returns hard-coded JSON of people and timestamps",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node api/getUserLogs.js"
+    "start": "node api/getUserLogs.js",
+    "heroku-postbuild": "npm run build"
   },
   "author": "",
   "license": "ISC",

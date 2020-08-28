@@ -3,7 +3,7 @@ const app = express()
 sampleJSON = require('../data/sampleJSON.json')
 
 app.get('/', (req, res) => {
-  res.send(sampleJSON)
+  res.json(sampleJSON)
 })
 
 app.listen(process.env.PORT || 3000, () => {

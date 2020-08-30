@@ -5,26 +5,38 @@
 			"id": "W012A3CDE",
 			"real_name": "Egon Spengler",
 			"tz": "America/Los_Angeles",
-			"activity_periods": []
+			"activity_periods": [
+				{
+					"start_time": "Aug 30 2020 5:33PM",
+					"end_time": "Aug 31 30 2020 8:02PM"
+				},				
+				{
+					"start_time": "Aug 31 2020 1:33PM",
+					"end_time": "Sep 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Sep 1 2020 11:11AM",
+					"end_time": "Sep 2 2020 2:00PM"
+				},
+				{
+					"start_time": "Sep 2 2020 5:33PM",
+					"end_time": "Sep 3 2020 8:02PM"
+				},
+				{
+					"start_time": "Sep 3 2020 5:33PM",
+					"end_time": "Sep 4 2020 8:02PM"
+				},
+				{
+					"start_time": "Sep 4 2020 5:33PM",
+					"end_time": "Sep 5 2020 8:02PM"
+				}
+			]
 		},
 		{
 			"id": "W07QCRPA4",
 			"real_name": "Glinda Southgood",
 			"tz": "Asia/Kolkata",
-			"activity_periods": [
-				{
-					"start_time": "Feb 1 2020  1:33PM",
-					"end_time": "Feb 1 2020 1:54PM"
-				},
-				{
-					"start_time": "Mar 1 2020  11:11AM",
-					"end_time": "Mar 1 2020 2:00PM"
-				},
-				{
-					"start_time": "Mar 16 2020  5:33PM",
-					"end_time": "Mar 16 2020 8:02PM"
-				}
-			]
+			"activity_periods": []
 		},
 		{
 			"id": "W05C35D11",
@@ -32,15 +44,15 @@
 			"tz": "America/Sao_Paulo",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -51,15 +63,15 @@
 			"tz": "Antarctica/Palmer",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -70,15 +82,15 @@
 			"tz": "Antarctica/Rothera",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -89,15 +101,15 @@
 			"tz": "Atlantic/Stanley",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -108,15 +120,15 @@
 			"tz": "America/Noronha",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -127,15 +139,15 @@
 			"tz": "Atlantic/South_Georgia",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -146,15 +158,15 @@
 			"tz": "America/Scoresbysund",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -165,15 +177,15 @@
 			"tz": "Atlantic/Azores",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -184,15 +196,15 @@
 			"tz": "Atlantic/Cape_Verde",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -203,15 +215,15 @@
 			"tz": "Africa/Abidjan",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -222,15 +234,15 @@
 			"tz": "Africa/Accra",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -241,15 +253,15 @@
 			"tz": "Africa/Bamako",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -260,15 +272,15 @@
 			"tz": "Africa/Banjul",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -279,15 +291,15 @@
 			"tz": "Africa/Bissau",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -298,15 +310,15 @@
 			"tz": "Africa/Conakry",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -317,15 +329,15 @@
 			"tz": "Africa/Dakar",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -336,15 +348,15 @@
 			"tz": "Africa/Freetown",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -355,15 +367,15 @@
 			"tz": "Africa/Lome",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -374,15 +386,15 @@
 			"tz": "Africa/Monrovia",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -393,15 +405,15 @@
 			"tz": "Africa/Nouakchott",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -412,15 +424,15 @@
 			"tz": "Africa/Ouagadougou",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -431,15 +443,15 @@
 			"tz": "Africa/Sao_Tome",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -450,15 +462,15 @@
 			"tz": "America/Danmarkshavn",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -469,15 +481,15 @@
 			"tz": "Australia/Lord_Howe",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -488,15 +500,15 @@
 			"tz": "Antarctica/Macquarie",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -507,15 +519,15 @@
 			"tz": "Asia/Magadan",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -526,15 +538,15 @@
 			"tz": "Asia/Sakhalin",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -545,15 +557,15 @@
 			"tz": "Asia/Srednekolymsk",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -564,15 +576,15 @@
 			"tz": "Pacific/Bougainville",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -583,15 +595,15 @@
 			"tz": "Pacific/Efate",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -602,15 +614,15 @@
 			"tz": "Pacific/Guadalcanal",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -621,15 +633,15 @@
 			"tz": "Pacific/Kosrae",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -640,15 +652,15 @@
 			"tz": "Pacific/Norfolk",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -659,15 +671,15 @@
 			"tz": "Pacific/Noumea",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -678,15 +690,15 @@
 			"tz": "Pacific/Pohnpei",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -697,15 +709,15 @@
 			"tz": "Antarctica/McMurdo",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -716,15 +728,15 @@
 			"tz": "Asia/Anadyr",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -735,15 +747,15 @@
 			"tz": "Asia/Kamchatka",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -754,15 +766,15 @@
 			"tz": "Pacific/Auckland",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -773,15 +785,15 @@
 			"tz": "Pacific/Fiji",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -792,15 +804,15 @@
 			"tz": "Pacific/Funafuti",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -811,15 +823,15 @@
 			"tz": "Pacific/Kwajalein",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -830,15 +842,15 @@
 			"tz": "Pacific/Majuro",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -849,15 +861,15 @@
 			"tz": "Pacific/Nauru",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -868,15 +880,15 @@
 			"tz": "Pacific/Tarawa",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -887,15 +899,15 @@
 			"tz": "Pacific/Wake",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -906,15 +918,15 @@
 			"tz": "Pacific/Wallis",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -925,15 +937,15 @@
 			"tz": "Pacific/Chatham",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -944,15 +956,15 @@
 			"tz": "Pacific/Apia",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -963,15 +975,15 @@
 			"tz": "Pacific/Enderbury",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -982,15 +994,15 @@
 			"tz": "Pacific/Fakaofo",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -1001,15 +1013,15 @@
 			"tz": "Pacific/Tongatapu",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -1020,15 +1032,15 @@
 			"tz": "Pacific/Kiritimati",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -1039,15 +1051,15 @@
 			"tz": "Pacific/Niue",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -1058,15 +1070,15 @@
 			"tz": "Pacific/Pago_Pago",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -1077,15 +1089,15 @@
 			"tz": "America/Adak",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -1096,15 +1108,15 @@
 			"tz": "Pacific/Honolulu",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -1115,15 +1127,15 @@
 			"tz": "Pacific/Rarotonga",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -1134,15 +1146,15 @@
 			"tz": "Pacific/Tahiti",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -1153,15 +1165,15 @@
 			"tz": "Pacific/Marquesas",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -1172,15 +1184,15 @@
 			"tz": "America/Anchorage",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -1191,15 +1203,15 @@
 			"tz": "America/Juneau",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -1210,15 +1222,15 @@
 			"tz": "America/Metlakatla",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -1229,15 +1241,15 @@
 			"tz": "America/Nome",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -1248,15 +1260,15 @@
 			"tz": "America/Sitka",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -1267,15 +1279,15 @@
 			"tz": "America/Yakutat",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -1286,15 +1298,15 @@
 			"tz": "Pacific/Gambier",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -1305,15 +1317,15 @@
 			"tz": "America/Los_Angeles",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -1324,15 +1336,15 @@
 			"tz": "America/Tijuana",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -1343,15 +1355,15 @@
 			"tz": "America/Vancouver",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -1362,15 +1374,15 @@
 			"tz": "Pacific/Pitcairn",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -1381,15 +1393,15 @@
 			"tz": "America/Boise",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -1400,15 +1412,15 @@
 			"tz": "America/Cambridge_Bay",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -1419,15 +1431,15 @@
 			"tz": "America/Chihuahua",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -1438,15 +1450,15 @@
 			"tz": "America/Creston",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -1457,15 +1469,15 @@
 			"tz": "America/Dawson",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -1476,15 +1488,15 @@
 			"tz": "America/Dawson_Creek",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -1495,15 +1507,15 @@
 			"tz": "America/Denver",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -1514,15 +1526,15 @@
 			"tz": "America/Edmonton",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -1533,15 +1545,15 @@
 			"tz": "America/Fort_Nelson",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -1552,15 +1564,15 @@
 			"tz": "America/Hermosillo",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -1571,15 +1583,15 @@
 			"tz": "America/Inuvik",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -1590,15 +1602,15 @@
 			"tz": "America/Mazatlan",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -1609,15 +1621,15 @@
 			"tz": "America/Ojinaga",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -1628,15 +1640,15 @@
 			"tz": "America/Phoenix",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -1647,15 +1659,15 @@
 			"tz": "America/Whitehorse",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -1666,15 +1678,15 @@
 			"tz": "America/Yellowknife",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -1685,15 +1697,15 @@
 			"tz": "America/Bahia_Banderas",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -1704,15 +1716,15 @@
 			"tz": "America/Belize",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -1723,15 +1735,15 @@
 			"tz": "America/Chicago",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -1742,15 +1754,15 @@
 			"tz": "America/Costa_Rica",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -1761,15 +1773,15 @@
 			"tz": "America/El_Salvador",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -1780,15 +1792,15 @@
 			"tz": "America/Guatemala",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -1799,15 +1811,15 @@
 			"tz": "America/Indiana/Knox",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -1818,15 +1830,15 @@
 			"tz": "America/Indiana/Tell_City",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -1837,15 +1849,15 @@
 			"tz": "America/Managua",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -1856,15 +1868,15 @@
 			"tz": "America/Matamoros",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -1875,15 +1887,15 @@
 			"tz": "America/Menominee",
 			"activity_periods": [
 				{
-					"start_time": "Feb 1 2020  1:33PM",
+					"start_time": "Feb 1 2020 1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]

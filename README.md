@@ -6,7 +6,7 @@ Mock server - returns hard-coded JSON of people and timestamps
 https://mock-server-user-access-logs.herokuapp.com/
 
 
-### `View Web application using this data`
+### `View Web application using this data at`
 https://ui-user-access-logs.herokuapp.com/
 
 
